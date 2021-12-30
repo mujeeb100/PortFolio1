@@ -15,14 +15,14 @@ export default function Works() {
       id: "2",
       icon: "./assets/globe.png",
       title: "Mobile Application",
-      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      desc: "Lorem Ipsum is very simply dummy text of the printing and typesetting industry.",
       img: "./assets/slide-mobile.jpg",
     },
     {
       id: "3",
       icon: "./assets/writing.png",
       title: "Cloud Management",
-      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      desc: "Lorem Ipsum is simply very dummy text of the printing and typesetting industry.",
       img: "./assets/internet.jpg",
     },
   ];
